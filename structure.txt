@@ -1,0 +1,15 @@
+chatbot/
+├── config/
+│   └── settings.py        # Configuration settings
+├── data/
+│   └── docs/              # Your document files go here
+├──create_model/
+│   └── main_model.py/      # Put the parameter of your model 
+|   └── model.py/           # download the model to ollama
+├── db/
+│   └── vector_store.py    # ChromaDB setup
+├── models/
+│   ├── embeddings.py      # Embedding model setup
+│   └── llm.py             # LLM model setup
+├── ingest.py              # Script to ingest documents into ChromaDB
+└── chat.py                # Main chatbot interface

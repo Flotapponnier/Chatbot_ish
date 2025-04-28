@@ -1,0 +1,67 @@
+{
+    "counselors": [
+        {
+            "name": "Dr. Maria Schmidt",
+            "type": "School Psychologist",
+            "location": "Building A, Room 105",
+            "hours": "Monday-Thursday, 9:00-17:00",
+            "specialization": "Anxiety, Academic Stress",
+            "contact": "m.schmidt@42heilbronn.de, +49 123 456789"
+        },
+        {
+            "name": "Thomas Weber",
+            "type": "Mental Health Counselor",
+            "location": "Building C, Room 210",
+            "hours": "Tuesday, Wednesday, Friday, 10:00-16:00",
+            "specialization": "Depression, Adjustment Issues",
+            "contact": "t.weber@42heilbronn.de, +49 123 456790"
+        },
+        {
+            "name": "Dr. Sophia M\u00fcller",
+            "type": "Student Wellness Advisor",
+            "location": "Building A, Room 110",
+            "hours": "Monday, Wednesday, Friday, 9:00-15:00",
+            "specialization": "Stress Management, Work-Life Balance",
+            "contact": "s.mueller@42heilbronn.de, +49 123 456791"
+        }
+    ],
+    "support_groups": [
+        {
+            "name": "Peer Support Circle",
+            "type": "Student-led Support Group",
+            "location": "Student Lounge, Building B",
+            "hours": "Tuesdays and Fridays, 18:00-19:30",
+            "focus": "General mental wellness, study-life balance",
+            "contact": "peersupport@42heilbronn.de"
+        },
+        {
+            "name": "Mindfulness Meditation Group",
+            "type": "Guided Practice Session",
+            "location": "Quiet Room, Building D",
+            "hours": "Mondays and Thursdays, 12:30-13:15",
+            "focus": "Stress reduction, anxiety management",
+            "contact": "meditation@42heilbronn.de"
+        }
+    ],
+    "crisis_resources": {
+        "emergency": "112",
+        "campus_support": "Student Support Office, Room 203, Available 24/7",
+        "crisis_line": "+49 800 111 0 111"
+    },
+    "wellness_resources": {
+        "fitness_center": {
+            "location": "Building D, Ground Floor",
+            "hours": "Daily, 6:00-22:00",
+            "services": "Gym equipment, yoga space, wellness room"
+        },
+        "quiet_rooms": {
+            "locations": [
+                "Building A, Room 120",
+                "Building B, Room 215",
+                "Building C, Room 310"
+            ],
+            "hours": "Available 24/7",
+            "purpose": "Meditation, quiet reflection, mental breaks"
+        }
+    }
+}
